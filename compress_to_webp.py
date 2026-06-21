@@ -15,9 +15,12 @@ except ImportError as exc:
 
 
 ROOT_DIR = Path(__file__).resolve().parent
-DEFAULT_BASE_DIR = ROOT_DIR / "base"
-DEFAULT_OUTPUT_DIR = ROOT_DIR / "compressed"
 
+# DEFAULT_BASE_DIR = ROOT_DIR / "base"
+# DEFAULT_OUTPUT_DIR = ROOT_DIR / "compressed"
+
+DEFAULT_BASE_DIR = ROOT_DIR / "watermark"
+DEFAULT_OUTPUT_DIR = ROOT_DIR / "compressed watermark"
 
 def output_is_current(source_path: Path, output_path: Path) -> bool:
     if not output_path.exists():
