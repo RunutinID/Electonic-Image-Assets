@@ -1,0 +1,182 @@
+[
+  {
+    "index": 0,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Komunikasi\\NRF24L01 PA LNA.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Komunikasi\\NRF24L01 PA LNA.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-000.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-a16x63z_\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-a16x63z_\\worker.pid"
+  },
+  {
+    "index": 1,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Komunikasi\\RF 433MHz TX RX.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Komunikasi\\RF 433MHz TX RX.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-001.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-gnqati60\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-gnqati60\\worker.pid"
+  },
+  {
+    "index": 2,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Komunikasi\\SIM7600 4G.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Komunikasi\\SIM7600 4G.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-002.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-pwxn9pjg\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-pwxn9pjg\\worker.pid"
+  },
+  {
+    "index": 3,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Komunikasi\\SIM800L GSM.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Komunikasi\\SIM800L GSM.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-003.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-qihjb_11\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-qihjb_11\\worker.pid"
+  },
+  {
+    "index": 4,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\Arduino Due.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\Arduino Due.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-004.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-v70u91vx\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-v70u91vx\\worker.pid"
+  },
+  {
+    "index": 5,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\Arduino Leonardo.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\Arduino Leonardo.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-005.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-8j43aypa\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-8j43aypa\\worker.pid"
+  },
+  {
+    "index": 6,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\Arduino Nano 33 BLE Sense.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\Arduino Nano 33 BLE Sense.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-006.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-5of5o1h8\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-5of5o1h8\\worker.pid"
+  },
+  {
+    "index": 7,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\Arduino Pro Micro.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\Arduino Pro Micro.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-007.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-1q8hd2qh\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-1q8hd2qh\\worker.pid"
+  },
+  {
+    "index": 8,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\LilyPad Arduino.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\LilyPad Arduino.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-008.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-o_zl62g3\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-o_zl62g3\\worker.pid"
+  },
+  {
+    "index": 9,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\LilyTiny ATtiny85.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\LilyTiny ATtiny85.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-009.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-wvd_thhm\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-wvd_thhm\\worker.pid"
+  },
+  {
+    "index": 10,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\NodeMCU ESP8266 V3.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\NodeMCU ESP8266 V3.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-010.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-g_g8bbuk\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-g_g8bbuk\\worker.pid"
+  },
+  {
+    "index": 11,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\Raspberry Pi Pico W.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\Raspberry Pi Pico W.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-011.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-1a2rcpks\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-1a2rcpks\\worker.pid"
+  },
+  {
+    "index": 12,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\Raspberry Pi Pico.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\Raspberry Pi Pico.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-012.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-e1z2mfkg\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-e1z2mfkg\\worker.pid"
+  },
+  {
+    "index": 13,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\STM32 BlackPill F411.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\STM32 BlackPill F411.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-013.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-j2h8lu8f\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-j2h8lu8f\\worker.pid"
+  },
+  {
+    "index": 14,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\Teensy 2.0 Clone.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\Teensy 2.0 Clone.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-014.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-9raae150\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-9raae150\\worker.pid"
+  },
+  {
+    "index": 15,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\Arduino Series\\Wemos D1 Mini.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\Arduino Series\\Wemos D1 Mini.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-015.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-r95w_rlb\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-r95w_rlb\\worker.pid"
+  },
+  {
+    "index": 16,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\ESP32 Boards\\ESP32-C3 SuperMini.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\ESP32\\ESP32-C3 SuperMini.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-016.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-rxp9wxkk\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-rxp9wxkk\\worker.pid"
+  },
+  {
+    "index": 17,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\ESP32 Boards\\ESP32-C6 DevKitM-1.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\ESP32\\ESP32-C6 DevKitM-1.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-017.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-o7j9ame5\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-o7j9ame5\\worker.pid"
+  },
+  {
+    "index": 18,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\ESP32 Boards\\ESP32-CAM MB.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\ESP32\\ESP32-CAM MB.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-018.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-zaw1i5pg\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-zaw1i5pg\\worker.pid"
+  },
+  {
+    "index": 19,
+    "raw": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\Raw Image\\Microcontrol\\ESP32 Boards\\ESP32-S3 DevKitC-1.jpg",
+    "output": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\base\\Microcontrol\\ESP32\\ESP32-S3 DevKitC-1.png",
+    "report": "D:\\Runutin\\Module Development\\Media\\Electonic Image Assets\\.generation\\launch-019.txt",
+    "returncode": 0,
+    "log": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-j3tzatns\\worker.log",
+    "pid": "C:\\Users\\FIRDAUS\\AppData\\Local\\Temp\\image_generation-job-j3tzatns\\worker.pid"
+  }
+]

@@ -1,0 +1,2 @@
+Job log: C:\Users\FIRDAUS\AppData\Local\Temp\image_generation-job-o7j9ame5\worker.log
+Job PID file: C:\Users\FIRDAUS\AppData\Local\Temp\image_generation-job-o7j9ame5\worker.pid
